@@ -48,7 +48,3 @@ the data given by a user
   - CREATING A FRONT END USING HTML AND CSS
   - USING FLASK TO CREATE A WEB APPLICATION
 
-=======
-# churn-prediction
-Customer Churn Pridiction
->>>>>>> f1930154dc067fb7c315d21ec1235d067ff5d355
